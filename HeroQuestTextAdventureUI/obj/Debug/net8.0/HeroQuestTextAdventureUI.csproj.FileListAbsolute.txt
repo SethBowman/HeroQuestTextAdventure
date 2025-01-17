@@ -1,0 +1,15 @@
+C:\Users\sethb\OneDrive\Desktop\repos\HeroQuestTextAdventure\HeroQuestTextAdventureUI\bin\Debug\net8.0\HeroQuestTextAdventureUI.exe
+C:\Users\sethb\OneDrive\Desktop\repos\HeroQuestTextAdventure\HeroQuestTextAdventureUI\bin\Debug\net8.0\HeroQuestTextAdventureUI.deps.json
+C:\Users\sethb\OneDrive\Desktop\repos\HeroQuestTextAdventure\HeroQuestTextAdventureUI\bin\Debug\net8.0\HeroQuestTextAdventureUI.runtimeconfig.json
+C:\Users\sethb\OneDrive\Desktop\repos\HeroQuestTextAdventure\HeroQuestTextAdventureUI\bin\Debug\net8.0\HeroQuestTextAdventureUI.dll
+C:\Users\sethb\OneDrive\Desktop\repos\HeroQuestTextAdventure\HeroQuestTextAdventureUI\bin\Debug\net8.0\HeroQuestTextAdventureUI.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\HeroQuestTextAdventure\HeroQuestTextAdventureUI\obj\Debug\net8.0\HeroQuestTextAdventureUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sethb\OneDrive\Desktop\repos\HeroQuestTextAdventure\HeroQuestTextAdventureUI\obj\Debug\net8.0\HeroQuestTextAdventureUI.AssemblyInfoInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\HeroQuestTextAdventure\HeroQuestTextAdventureUI\obj\Debug\net8.0\HeroQuestTextAdventureUI.AssemblyInfo.cs
+C:\Users\sethb\OneDrive\Desktop\repos\HeroQuestTextAdventure\HeroQuestTextAdventureUI\obj\Debug\net8.0\HeroQuestTextAdventureUI.csproj.CoreCompileInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\HeroQuestTextAdventure\HeroQuestTextAdventureUI\obj\Debug\net8.0\HeroQuestTextAdventureUI.dll
+C:\Users\sethb\OneDrive\Desktop\repos\HeroQuestTextAdventure\HeroQuestTextAdventureUI\obj\Debug\net8.0\refint\HeroQuestTextAdventureUI.dll
+C:\Users\sethb\OneDrive\Desktop\repos\HeroQuestTextAdventure\HeroQuestTextAdventureUI\obj\Debug\net8.0\HeroQuestTextAdventureUI.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\HeroQuestTextAdventure\HeroQuestTextAdventureUI\obj\Debug\net8.0\HeroQuestTextAdventureUI.genruntimeconfig.cache
+C:\Users\sethb\OneDrive\Desktop\repos\HeroQuestTextAdventure\HeroQuestTextAdventureUI\obj\Debug\net8.0\ref\HeroQuestTextAdventureUI.dll
+C:\Users\sethb\OneDrive\Desktop\repos\HeroQuestTextAdventure\HeroQuestTextAdventureUI\obj\Debug\net8.0\HeroQuestTextAdventureUI.sourcelink.json
